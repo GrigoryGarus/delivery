@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5cee1064-d66f-4495-aa20-577fa315863d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../PhoneBook1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBook1/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBook1/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBook1/.idea/libraries/Gradle__com_github_stefanbirkner_system_rules_1_19_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBook1/.idea/libraries/Gradle__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBook1/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBook1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBook1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBook1/.idea/modules/PhoneBook1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBook1/.idea/modules/lesson1/Menu/lesson1-Menu.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBook1/.idea/modules/lesson1/Menu/lesson1-Menu_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBook1/.idea/modules/lesson1/Menu/lesson1-Menu_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBook1/.idea/modules/lesson1/MenuItemLogic/lesson1-MenuItemLogic.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBook1/.idea/modules/lesson1/MenuItemLogic/lesson1-MenuItemLogic_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBook1/.idea/modules/lesson1/MenuItemLogic/lesson1-MenuItemLogic_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBook1/.idea/modules/lesson1/MenuItems/lesson1-MenuItems.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBook1/.idea/modules/lesson1/MenuItems/lesson1-MenuItems_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBook1/.idea/modules/lesson1/MenuItems/lesson1-MenuItems_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBook1/.idea/modules/util/util.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBook1/.idea/modules/util/util_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBook1/.idea/modules/util/util_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBook1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PhoneBook/lesson1/MenuItemLogic/src/AbstractMenu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PhoneBook/lesson1/MenuItemLogic/src/Contact.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PhoneBook/lesson1/MenuItemLogic/src/CreateMenuItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PhoneBook/lesson1/MenuItemLogic/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PhoneBook/lesson1/MenuItemLogic/src/MainMenu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PhoneBook/lesson1/MenuItemLogic/src/Menu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PhoneBook/lesson1/MenuItemLogic/src/MenuItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PhoneBook/lesson1/MenuItemLogic/src/MenuItemExecutor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PhoneBook/lesson1/MenuItemLogic/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../PhoneBook/lesson1/MenuItemLogic/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1baIQez4ejn4niIp2WdDsqTlsJ6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../delivery1" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="demo.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.DemoApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5cee1064-d66f-4495-aa20-577fa315863d" name="Default Changelist" comment="" />
+      <created>1588863762102</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588863762102</updated>
+      <workItem from="1588863767193" duration="856000" />
+      <workItem from="1588865118209" duration="325000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
